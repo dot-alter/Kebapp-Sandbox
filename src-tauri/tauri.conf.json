@@ -14,8 +14,8 @@
     "windows": [
       {
         "title": "kebapp-sandbox",
-        "width": 800,
-        "height": 600
+        "width": 440,
+        "height": 977
       }
     ],
     "security": {

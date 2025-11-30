@@ -1,5 +1,5 @@
-import "./styles.css.ts";
+import { Inicio } from "./views/inicio";
 
 document.addEventListener("DOMContentLoaded", () => {
-  // Vacío de momento
+    Inicio();
 });
