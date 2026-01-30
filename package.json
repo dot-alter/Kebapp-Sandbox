@@ -1,10 +1,11 @@
 {
   "name": "kebapp-sandbox",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev:android": "node node_modules/vite/bin/vite.js",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "tauri": "tauri"
